@@ -1,0 +1,15 @@
+Enter the number of processes : 5
+Enter the arrival time for processes : 2 5 1 0 4
+Enter the burst time for processes : 6 2 8 3 4
+
+Output:
+
+    
+Process id      Arrival Time    Burst Time      Waiting Time    Tunraround Time
+4               0               3               0               3
+3               1               8               14              22
+1               2               6               7               13
+5               4               4               2               6
+2               5               2               0               2
+Average Waiting time for process is : 4.6
+Average Turnaround time for process is : 9.2

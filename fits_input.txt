@@ -1,0 +1,19 @@
+Enter total memory size: 1000
+Enter number of memory blocks: 5
+Enter size of block 1: 200
+Enter size of block 2: 300
+Enter size of block 3: 150
+Enter size of block 4: 400
+Enter size of block 5: 250
+
+Memory Allocation Techniques:
+1. First Fit
+2. Best Fit
+3. Next Fit
+4. Worst Fit
+5. Exit
+Enter your choice: 1
+Enter size of block to allocate: 150
+
+Output:
+Memory block 1 allocated at position 0

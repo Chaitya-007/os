@@ -1,0 +1,17 @@
+Enter the number of processes : 6
+Enter the arrival time for processes : 0 1 2 3 4 4
+Enter the burst time for processes : 7 4 15 11 20 9
+Enter the time quantum : 5
+
+Output :
+
+Process id Arrival Time Burst Time Completion Time Turnaround Time Waiting Time
+1 0 7 31 31 24
+2 1 4 9 8 4
+3 2 15 55 53 38
+4 3 11 56 53 42
+5 4 20 66 62 42
+6 4 9 50 46 37
+Total Completion time for process is : 267 milliseconds
+Average Waiting time for process is : 31.1667
+Average Turnaround time for process is : 42.1667
